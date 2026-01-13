@@ -21,8 +21,8 @@
 title: Sanchez Anthony
 email: your-email@example.com
 description: Portfolio Epitech
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/portfolio"
+url: "https://anthony-sanchez-epc.github.io/portfolio/" 
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -30,6 +30,10 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+- index.markdown
+- about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
