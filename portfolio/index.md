@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Accueil
+title:
 ---
 
 # Je me présente, je m'appelle Anthony
 
-Etudiant à Epitech dans le cursus WebAcadémie à Marseille à la recherche d'une alternance.
+Etudiant à **Epitech** dans le cursus WebAcadémie à Marseille à la recherche d'une alternance. Je suis actuellement en première année de programmation
 
-![Photo de profil](assets/img/photo.jpg)
+![](assets/img/fleur.jpg)
